@@ -1,3 +1,3 @@
-# practical-deep-learning-hw
+# ml-learn
 
-Git repo for my homework for [fast.ai Practical Deep Learning for Coders 2022 course](https://course.fast.ai/)
+Notes and projects for learning ML.
